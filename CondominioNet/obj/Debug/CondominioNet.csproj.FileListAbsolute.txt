@@ -1,0 +1,6 @@
+C:\Users\Assus\Downloads\CondomínioNet\CondominioNet\bin\Debug\CondomínioNet.exe
+C:\Users\Assus\Downloads\CondomínioNet\CondominioNet\bin\Debug\CondomínioNet.pdb
+C:\Users\Assus\Downloads\CondomínioNet\CondominioNet\obj\Debug\CondominioNet.csproj.AssemblyReference.cache
+C:\Users\Assus\Downloads\CondomínioNet\CondominioNet\obj\Debug\CondominioNet.csproj.CoreCompileInputs.cache
+C:\Users\Assus\Downloads\CondomínioNet\CondominioNet\obj\Debug\CondomínioNet.exe
+C:\Users\Assus\Downloads\CondomínioNet\CondominioNet\obj\Debug\CondomínioNet.pdb

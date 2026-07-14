@@ -1,0 +1,3 @@
+B205|B|205|Apartamento|85
+B301|B|301|Cobertura|150
+C401|C|401|Cobertura|100
